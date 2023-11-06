@@ -1,0 +1,31 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blueviolet;
+
+
+
+    
+}
+body{background-image: url(BG.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+background-size: cover;
+
+
+
+}
+input{
+    cursor:  pointer;
+}
+select{
+    cursor: pointer;
+}
+textarea{
+    cursor: pointer;
+}
